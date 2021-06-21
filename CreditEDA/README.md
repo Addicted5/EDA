@@ -1,1 +1,1 @@
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/addicted-ai/EDA/blob/main/CreditEDA/credit-eda-case-study-Final_v2.ipynb]
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/addicted-ai/EDA/blob/main/CreditEDA/credit-eda-case-study-Final_v2.ipynb)
